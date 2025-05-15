@@ -1,0 +1,119 @@
+/*!
+ * Font Awesome Free 6.0.0-beta3 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Copyright 2021 Fonticons, Inc.
+ */
+ .fa,
+ .fas,
+ .far,
+ .fal,
+ .fad,
+ .fab {
+   -moz-osx-font-smoothing: grayscale;
+   -webkit-font-smoothing: antialiased;
+   display: inline-block;
+   font-style: normal;
+   font-variant: normal;
+   text-rendering: auto;
+   line-height: 1;
+ }
+ 
+ .fa-bars:before {
+   content: "\f0c9";
+ }
+ .fa-times:before {
+   content: "\f00d";
+ }
+ .fa-envelope:before {
+   content: "\f0e0";
+ }
+ .fa-phone:before {
+   content: "\f095";
+ }
+ .fa-linkedin:before {
+   content: "\f08c";
+ }
+ .fa-github:before {
+   content: "\f09b";
+ }
+ .fa-graduation-cap:before {
+   content: "\f19d";
+ }
+ .fa-school:before {
+   content: "\f549";
+ }
+ .fa-code:before {
+   content: "\f121";
+ }
+ .fa-car:before {
+   content: "\f1b9";
+ }
+ .fa-laptop-code:before {
+   content: "\f5fc";
+ }
+ .fa-html5:before {
+   content: "\f13b";
+ }
+ .fa-css3-alt:before {
+   content: "\f38b";
+ }
+ .fa-js:before {
+   content: "\f3b8";
+ }
+ .fa-bootstrap:before {
+   content: "\f836";
+ }
+ .fa-react:before {
+   content: "\f41b";
+ }
+ .fa-node-js:before {
+   content: "\f3d3";
+ }
+ .fa-server:before {
+   content: "\f233";
+ }
+ .fa-database:before {
+   content: "\f1c0";
+ }
+ .fa-exchange-alt:before {
+   content: "\f362";
+ }
+ .fa-table:before {
+   content: "\f0ce";
+ }
+ .fa-python:before {
+   content: "\f3e2";
+ }
+ .fa-aws:before {
+   content: "\f375";
+ }
+ .fa-download:before {
+   content: "\f019";
+ }
+ 
+ @font-face {
+   font-family: 'Font Awesome 5 Free';
+   font-style: normal;
+   font-weight: 900;
+   font-display: block;
+   src: url("../images/fonts/fa-solid-900.woff2") format("woff2");
+ }
+ 
+ .fa,
+ .fas {
+   font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
+ }
+ 
+ @font-face {
+   font-family: 'Font Awesome 5 Brands';
+   font-style: normal;
+   font-weight: 400;
+   font-display: block;
+   src: url("../images/fonts/fa-brands-400.woff2") format("woff2");
+ }
+ 
+ .fab {
+   font-family: 'Font Awesome 5 Brands';
+   font-weight: 400;
+ }
